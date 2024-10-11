@@ -21,7 +21,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ShashwatThakur0&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,it's%20not%20funny%20anymore&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay&border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShashwatThakur0&limit=5&theme=dark&combine_all_yearly_contributions=true)
