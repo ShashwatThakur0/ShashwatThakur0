@@ -1,10 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Shashwat%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=170&section=header&text=Shashwat%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Digital+Experiences;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=2800&pause=2000&color=00E1F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Digital+Experiences;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -88,31 +88,31 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShashwatThakur0&show_icons=true&count_private=true&hide_border=true&title_color=A177FE&icon_color=70A5FD&text_color=FFFFFF&bg_color=0d1117" alt="Shashwat's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatThakur0&hide_border=true&stroke=A177FE&ring=A177FE&fire=70A5FD&currStreakNum=FFFFFF&sideNums=A177FE&currStreakLabel=A177FE&sideLabels=A177FE&dates=FFFFFF&background=0D1117" alt="Streak Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShashwatThakur0&show_icons=true&count_private=true&hide_border=true&title_color=00E1F7&icon_color=00B4D8&text_color=FFFFFF&bg_color=0d1117" alt="Shashwat's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=ShashwatThakur0&theme=tokyonight-duo&hide_border=true&ring=00E1F7&fire=00B4D8&currStreakNum=FFFFFF&sideNums=00E1F7&currStreakLabel=00E1F7&sideLabels=00E1F7&dates=FFFFFF&background=0D1117" />
 </div>
 
 <!-- Activity Graph -->
 <br/>
 <div align="center">
   <a href="https://github.com/ShashwatThakur0">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatThakur0&theme=tokyo-night&hide_border=true&bg_color=0d1117&point=A177FE&line=70A5FD&color=FFFFFF" alt="contribution graph"/>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatThakur0&theme=react-dark&hide_border=true&bg_color=0d1117&point=00E1F7&line=00B4D8&color=FFFFFF" alt="contribution graph"/>
   </a>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashwatThakur0&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashwatThakur0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <!-- Profile Views -->
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=ShashwatThakur0&label=Profile%20Views&color=A177FE&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ShashwatThakur0&label=Profile%20Views&color=00E1F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=100&section=footer"/>
 </p>
