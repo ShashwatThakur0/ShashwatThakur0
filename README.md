@@ -1,109 +1,118 @@
-[![](https://visitcount.itsvg.in/api?id=ShashwatThakur0&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Shashwat%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</p>
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Digital+Experiences;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Shashwat+Thakur;Full+Stack+Developer;Passionate+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=ShashwatThakur0&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Profile Stats">
 </div>
 
-###
-
+<!-- Socials -->
 <div align="center">
   <a href="https://linkedin.com/in/shashwat-thakur" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://instagram.com/_.shashwat._thakur" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   <a href="https://codepen.io/Shashwat-Thakur" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
   </a>
   <a href="https://leetcode.com/ShashwatThakur" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" />
   </a>
 </div>
 
-###
+<br/>
 
-<h1 align="center">About Me 👨‍💻</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Shashwat from India<br><br>- 🔭 Working on my Problem Solving Skills<br>- 📚 Currently learning Advanced Java and Python<br>- ⚡ In my free time, I solve problems on LeetCode and read tech articles</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<!-- About Section -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" height="200" />
+  
+  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+  <p align="left" style="margin-left: 40px;">
+    <br/>
+    🚀 Passionate about crafting elegant solutions through code<br/>
+    💻 Specializing in Full Stack Development<br/>
+    🌱 Always exploring new technologies<br/>
+    ⚡ Building scalable and efficient applications
+  </p>
 </div>
 
-###
+<br/>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<!-- Skills Section -->
+<h2 align="center">
+  Technologies and Tools 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShashwatThakur0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
+  <!-- Frontend -->
+  <details open>
+  <summary><b>Frontend Development</b></summary>
+  <br/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind&theme=dark)](https://skillicons.dev)
+  
+  </details>
+
+  <!-- Backend -->
+  <details open>
+  <summary><b>Backend Development</b></summary>
+  <br/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb&theme=dark)](https://skillicons.dev)
+  
+  </details>
+
+  <!-- Tools -->
+  <details open>
+  <summary><b>Tools & Platforms</b></summary>
+  <br/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql&theme=dark)](https://skillicons.dev)
+  
+  </details>
 </div>
 
-###
+<br/>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatThakur0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashwatThakur0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShashwatThakur0&show_icons=true&count_private=true&hide_border=true&title_color=A177FE&icon_color=70A5FD&text_color=FFFFFF&bg_color=0d1117" alt="Shashwat's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatThakur0&hide_border=true&stroke=A177FE&ring=A177FE&fire=70A5FD&currStreakNum=FFFFFF&sideNums=A177FE&currStreakLabel=A177FE&sideLabels=A177FE&dates=FFFFFF&background=0D1117" alt="Streak Stats" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShashwatThakur0/ShashwatThakur0/output/snake.svg" alt="Snake animation" />
-
-###
-
+<!-- Activity Graph -->
+<br/>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ShashwatThakur0/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31k4nilw3nf2ooqj3yyugcqmhori">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k4nilw3nf2ooqj3yyugcqmhori&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://github.com/ShashwatThakur0">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatThakur0&theme=tokyo-night&hide_border=true&bg_color=0d1117&point=A177FE&line=70A5FD&color=FFFFFF" alt="contribution graph"/>
   </a>
 </div>
 
-###
+<!-- GitHub Trophies -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashwatThakur0&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<!-- Profile Views -->
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ShashwatThakur0&label=Profile%20Views&color=A177FE&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
