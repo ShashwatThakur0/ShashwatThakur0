@@ -53,7 +53,6 @@
 </h2>
 
 <div align="center">
-  
   <!-- Frontend -->
   <details open>
   <summary><b>Frontend Development</b></summary>
@@ -80,6 +79,51 @@
   [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql&theme=dark)](https://skillicons.dev)
   
   </details>
+</div>
+
+<!-- Tech Stack Icons -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+  <!-- Programming Languages -->
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/dart/0175C2" width="40" height="40" alt="Dart" title="Dart"/>
+  <img src="https://cdn.simpleicons.org/java/007396" width="40" height="40" alt="Java" title="Java"/>
+  
+  <!-- Frontend -->
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" title="React"/>
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="40" height="40" alt="Flutter" title="Flutter"/>
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="40" height="40" alt="Android" title="Android"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" alt="CSS3" title="CSS3"/>
+  
+  <!-- Backend & Database -->
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" alt="Express" title="Express"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" height="40" alt="Prisma" title="Prisma"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  
+  <!-- Cloud & Deployment -->
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" alt="AWS" title="AWS"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.simpleicons.org/nginx/009639" width="40" height="40" alt="Nginx" title="Nginx"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel" title="Vercel"/>
+  
+  <!-- Testing -->
+  <img src="https://cdn.simpleicons.org/testinglibrary/E33332" width="40" height="40" alt="Testing Library" title="Testing Library"/>
+  <img src="https://cdn.simpleicons.org/jest/C21325" width="40" height="40" alt="Jest" title="Jest"/>
+  <img src="https://cdn.simpleicons.org/cypress/17202C" width="40" height="40" alt="Cypress" title="Cypress"/>
+  
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Jira" title="Jira"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" height="40" alt="GitLab" title="GitLab"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" height="40" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40" height="40" alt="Android Studio" title="Android Studio"/>
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="40" height="40" alt="SonarQube" title="SonarQube"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" title="Figma"/>
 </div>
 
 <br/>
