@@ -1,27 +1,31 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=170&section=header&text=Shashwat%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=2800&pause=2000&color=00E1F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Digital+Experiences;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:00E1F7&height=250&section=header&text=Hi%20there!%20👋&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20Shashwat's%20Digital%20Space&descAlignY=50&descSize=20" alt="Header Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=ShashwatThakur0&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Profile Stats">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=00E1F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Digital+Experiences+%F0%9F%8C%9F;Passionate+Problem+Solver+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  </h3>
 </div>
 
-<!-- Socials -->
+<div align="center">
+  <a href="https://github.com/ShashwatThakur0">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ShashwatThakur0&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Profile Stats">
+  </a>
+</div>
+
+<!-- Quick Links -->
 <div align="center">
   <a href="https://linkedin.com/in/shashwat-thakur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/_.shashwat._thakur" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
+  </a>&nbsp;
   <a href="https://codepen.io/Shashwat-Thakur" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
-  </a>
+  </a>&nbsp;
   <a href="https://leetcode.com/ShashwatThakur" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" />
   </a>
@@ -60,9 +64,9 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
     <div style="margin: 15px 0">
-      
-    [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind&theme=dark)](https://skillicons.dev)
-      
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind&theme=dark" alt="My Skills" />
+    </a>
     </div>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </details>
@@ -74,9 +78,9 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
     <div style="margin: 15px 0">
-      
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb&theme=dark)](https://skillicons.dev)
-      
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb&theme=dark" alt="My Skills" />
+    </a>
     </div>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </details>
@@ -88,9 +92,9 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
     <div style="margin: 15px 0">
-      
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql&theme=dark)](https://skillicons.dev)
-      
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql&theme=dark" alt="My Skills" />
+    </a>
     </div>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </details>
