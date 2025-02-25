@@ -81,15 +81,6 @@
   </details>
 </div>
 
-<!-- Marquee Tech Stack -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00E1F7&center=true&vCenter=true&width=940&lines=TypeScript+%7C+JavaScript+%7C+Dart+%7C+Java+%7C+React+%7C+Flutter;Node.js+%7C+Express+%7C+Next.js+%7C+Prisma+%7C+PostgreSQL;AWS+%7C+Firebase+%7C+Docker+%7C+Git+%7C+GitHub+%7C+GitLab">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00B4D8&center=true&vCenter=true&width=940&lines=TypeScript+%7C+JavaScript+%7C+Dart+%7C+Java+%7C+React+%7C+Flutter;Node.js+%7C+Express+%7C+Next.js+%7C+Prisma+%7C+PostgreSQL;AWS+%7C+Firebase+%7C+Docker+%7C+Git+%7C+GitHub+%7C+GitLab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00E1F7&center=true&vCenter=true&width=940&lines=TypeScript+%7C+JavaScript+%7C+Dart+%7C+Java+%7C+React+%7C+Flutter;Node.js+%7C+Express+%7C+Next.js+%7C+Prisma+%7C+PostgreSQL;AWS+%7C+Firebase+%7C+Docker+%7C+Git+%7C+GitHub+%7C+GitLab" alt="Marquee Tech Stack">
-  </picture>
-</div>
-
 <br/>
 
 <!-- GitHub Stats -->
