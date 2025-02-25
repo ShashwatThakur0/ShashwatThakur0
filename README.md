@@ -33,21 +33,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" height="200" />
   
-  <div align="left" style="margin-left: 40px;">
-    <h3>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-    </h3>
-    <div align="left">
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-      <br/>
-      🚀 Passionate about crafting elegant solutions through code<br/>
-      💻 Specializing in Full Stack Development<br/>
-      🌱 Always exploring new technologies<br/>
-      ⚡ Building scalable and efficient applications
-      <br/>
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-    </div>
-  </div>
+  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+  <p align="left" style="margin-left: 40px;">
+    <br/>
+    🚀 Passionate about crafting elegant solutions through code<br/>
+    💻 Specializing in Full Stack Development<br/>
+    🌱 Always exploring new technologies<br/>
+    ⚡ Building scalable and efficient applications
+  </p>
 </div>
 
 <br/>
@@ -56,112 +50,88 @@
 <h2 align="center">
   Technologies and Tools 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150">
 </h2>
 
-<div align="center">
+<div align="center" style="margin: 20px 0">
   <!-- Frontend -->
   <details open>
-    <summary>
-      <b>Frontend Development</b>
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150">
-    </summary>
+    <summary><b>Frontend Development</b></summary>
     <br/>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
-    
+    <div style="margin: 15px 0">
+      
     [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind&theme=dark)](https://skillicons.dev)
-    
-    <br/>
+      
+    </div>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </details>
 
   <!-- Backend -->
   <details open>
-    <summary>
-      <b>Backend Development</b>
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150">
-    </summary>
+    <summary><b>Backend Development</b></summary>
     <br/>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
-    
+    <div style="margin: 15px 0">
+      
     [![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb&theme=dark)](https://skillicons.dev)
-    
-    <br/>
+      
+    </div>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </details>
 
   <!-- Tools -->
   <details open>
-    <summary>
-      <b>Tools & Platforms</b>
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150">
-    </summary>
+    <summary><b>Tools & Platforms</b></summary>
     <br/>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
-    
+    <div style="margin: 15px 0">
+      
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql&theme=dark)](https://skillicons.dev)
-    
-    <br/>
+      
+    </div>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   </details>
 </div>
 
 <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<br/>
 
 <!-- GitHub Stats -->
-<h2 align="center">
-  📊 GitHub Statistics
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150">
-</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  <br/>
+<div align="center" style="margin: 25px 0">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShashwatThakur0&show_icons=true&count_private=true&hide_border=true&title_color=00E1F7&icon_color=00B4D8&text_color=FFFFFF&bg_color=0d1117" alt="Shashwat's github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=ShashwatThakur0&theme=tokyonight-duo&hide_border=true&ring=00E1F7&fire=00B4D8&currStreakNum=FFFFFF&sideNums=00E1F7&currStreakLabel=00E1F7&sideLabels=00E1F7&dates=FFFFFF&background=0D1117" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
 
 <!-- Activity Graph -->
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<div align="center" style="margin: 25px 0">
   <a href="https://github.com/ShashwatThakur0">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatThakur0&theme=react-dark&hide_border=true&bg_color=0d1117&point=00E1F7&line=00B4D8&color=FFFFFF" alt="contribution graph"/>
   </a>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<br/>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <h2>
-    🏆 GitHub Trophies
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="150">
-  </h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  <br/>
+  <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=ShashwatThakur0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
 
 <!-- Profile Views -->
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=ShashwatThakur0&label=Profile%20Views&color=00E1F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,16,24&height=100&section=footer"/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </p>
