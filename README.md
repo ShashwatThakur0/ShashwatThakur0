@@ -63,7 +63,7 @@
     <br/>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
-    <div style="margin: 15px 0">
+    <div style="margin: 15px 0; border: 1px solid #00E1F7; padding: 15px; border-radius: 10px;">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind&theme=dark" alt="My Skills" />
     </a>
@@ -77,7 +77,7 @@
     <br/>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
-    <div style="margin: 15px 0">
+    <div style="margin: 15px 0; border: 1px solid #00E1F7; padding: 15px; border-radius: 10px;">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,mongodb&theme=dark" alt="My Skills" />
     </a>
@@ -91,7 +91,7 @@
     <br/>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
     <br/>
-    <div style="margin: 15px 0">
+    <div style="margin: 15px 0; border: 1px solid #00E1F7; padding: 15px; border-radius: 10px;">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql&theme=dark" alt="My Skills" />
     </a>
@@ -110,6 +110,11 @@
 <div align="center" style="margin: 25px 0">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ShashwatThakur0&show_icons=true&count_private=true&hide_border=true&title_color=00E1F7&icon_color=00B4D8&text_color=FFFFFF&bg_color=0d1117" alt="Shashwat's github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=ShashwatThakur0&theme=tokyonight-duo&hide_border=true&ring=00E1F7&fire=00B4D8&currStreakNum=FFFFFF&sideNums=00E1F7&currStreakLabel=00E1F7&sideLabels=00E1F7&dates=FFFFFF&background=0D1117" />
+</div>
+
+<!-- 3D Contribution Calendar -->
+<div align="center" style="margin: 25px 0; border: 1px solid #00E1F7; padding: 15px; border-radius: 10px;">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </div>
 
 <!-- Activity Graph -->
