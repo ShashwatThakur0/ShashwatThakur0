@@ -61,4 +61,4 @@
 [![](https://visitcount.itsvg.in/api?id=shashwatthakur0&icon=10&color=1)](https://visitcount.itsvg.in)
 
 <!-- Footer -->
-<img src="https://raw.githubusercontent.com/ShashwatThakur0/ShashwatThakur0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShashwatThakur0/ShashwatThakur0/main/dist/snake.svg" alt="Snake animation" />
