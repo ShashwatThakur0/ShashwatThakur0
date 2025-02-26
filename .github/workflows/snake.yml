@@ -24,6 +24,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}  # Get the GitHub username
           outputs: dist/snake.svg?palette=github-dark  # Specify the output path
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the GitHub token for authentication
 
       - name: Commit and push snake.svg to main branch
         run: |
