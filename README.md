@@ -75,7 +75,7 @@ A passionate Web Application Developer with a desire to explore more about softw
 
 <!-- 3D Contribution Calendar -->
 <div align="center" style="margin: 25px 0; border: 1px solid #00E1F7; padding: 15px; border-radius: 10px;">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </div>
 
 <!-- Most Used Languages -->
