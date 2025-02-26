@@ -51,8 +51,8 @@
 <h3> ✍️ Random Dev Quote </h3>
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,it's%20not%20funny%20anymore&border=true)
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay&border=true)
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,it's%20not%20funny%20anymore&border=true" alt="Quote 1" width="200" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay&border=true" alt="Quote 2" width="200" />
 </div>
 
 
